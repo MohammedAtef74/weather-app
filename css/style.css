@@ -1,0 +1,101 @@
+body
+{
+    font-family: "Roboto", "Open Sans", sans-serif;
+    font-size: 20px;
+    font-weight: 300;
+    line-height: 1.5;
+    background-image: url(../Background-image-TheRainery-2.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+
+}
+
+.layer
+{
+    width: 100%;
+    height: 100%;
+    background-color:rgba(0, 0, 0, 0.3)
+}
+
+.nav-item a
+{
+    color: white;
+}
+.nav-item a:hover
+{
+    color: #1e202b;
+    transition-duration:0.4s;
+}
+
+.navbar-brand
+{
+    color: white;
+}
+
+.logo
+{
+    color: #009ad8;
+    
+}
+.active a
+{
+    color: #009ad8;
+}
+.active a:hover
+{
+    color: #009ad8;
+}
+
+
+.navbar-brand:hover
+{
+    color: white;
+}
+
+.icons i
+{
+    font-weight: 900;
+    font-size:xx-large;
+}
+.icons i:hover
+{
+    color: rgb(34, 26, 26);
+    transition-duration:0.4s;
+}
+
+.follow
+{
+    background-color: rgba(211, 125, 211, 0.329);
+}
+
+.nav-color 
+{
+    background-color: rgba(211, 125, 211, 0.329);
+}
+
+.clear
+{
+    color: #009ad8;
+}
+
+.weather-day
+{
+    background: #1e202b;
+    color: white;
+
+}
+
+.inbut
+{
+    background-color: rgba(217, 214, 233, 0.801);
+
+}
+
+
+/*     background-color: rgba(71, 34, 71, 0.295);
+*/
+
+
+
